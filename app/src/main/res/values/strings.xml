@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">workwith</string>
+    <string name="create_slot">Create Slot</string>
+    <string name="join_slot">Join Slot</string>
+    <string name="title_activity_user_home">userHomeActivity</string>
+    <string name="complete_create">Complete Create</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
 </resources>
