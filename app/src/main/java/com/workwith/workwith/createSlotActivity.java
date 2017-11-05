@@ -79,7 +79,7 @@ public class createSlotActivity extends Activity implements TimePicker.OnTimeCha
         Intent intent = new Intent(this, userHomeActivity.class);
         startActivity(intent);
     }
-git
+
    /* public ArrayList<Date> getSavedSlots() {
         return savedSlots;
     }

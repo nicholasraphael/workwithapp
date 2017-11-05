@@ -27,6 +27,10 @@
             android:name=".userHomeActivity"
             android:label="@string/title_activity_user_home"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".joinSlotActivity"
+            android:label="@string/title_activity_join_slot"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

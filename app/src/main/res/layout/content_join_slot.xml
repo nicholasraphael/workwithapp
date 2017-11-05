@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.workwith.workwith.joinSlotActivity"
+    tools:showIn="@layout/activity_join_slot"
+    android:background="@drawable/artboard_4">
+
+    <Button
+        android:id="@+id/button3"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="283dp"
+        android:layout_height="305dp"
+        tools:layout_editor_absoluteX="74dp"
+        tools:layout_editor_absoluteY="176dp" />
+</android.support.constraint.ConstraintLayout>
