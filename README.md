@@ -9,10 +9,10 @@ The application will allow for a person to join or create time slots to workout 
 The design was done in adobe illustrator and most coding in Android Studio and Java.
 
 #Challenges 
-We had never worked together on a team before, and we had all never coded android applications from scratch. There was a somewhat steep learning curve but it was fun nonetheless
+We had never worked together on a team before with one another, and we never coded android applications from scratch with no guidance.
 
 #Accomplishments
-Coding in android studio from scratch
+Coding in android studio to build a fully working application
 
 #learned
 Android Studio and teamwork
